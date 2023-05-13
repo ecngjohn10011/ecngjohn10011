@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ecngjohn10011 (Daniel John)
-- 👀 I’m interested in Computer Controls and Communication systems. AI, Machine Learning and Computer Science. 
-- 🌱 I’m currently pursuing a degree in Electrical and Computer Engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - adrij10101@gmail.com
+- 👋 Hi, my name is Daniel John
+- 👀 I’m currently a software developer at the Ministry of Education (Trinidad and Tobago) 
+- 🌱 At work I mainly build web applications using Laravel, Vue (with Tailwind) and Inertia. We also use MongoDB and MySQL.
+- 💞️ Please see my linkedIn here: www.linkedin.com/in/danieljohn13a28b187
+- 📫 How to reach me - danieljohn_11@hotmail.com
 
 <!---
 ecngjohn10011/ecngjohn10011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
