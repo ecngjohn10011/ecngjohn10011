@@ -7,7 +7,7 @@
 I have web development experience with the following tech stacks:
 - Python, Django framework, PostgreSQL
 - MongoDB, Express, (React + Vue), Node - all including (Typescript)
-- Laravel (PHP), Inertia, MySQL
+- Laravel (PHP), Vue, MySQL
 - Flask, MySQL
 
 I have mobile app development experience with the following frameworks, services and applications:
