@@ -25,7 +25,7 @@ I have devops experience with the following:
   - Backend
     - EC2 + ECR
     - ECS for microservices (still getting more experience)
-    - Lambda
+    - AWS Lambda
   
 
 <!---
