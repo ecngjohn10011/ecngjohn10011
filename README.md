@@ -6,7 +6,7 @@
 
 I have web development experience with the following tech stacks:
 - Python, Django framework, PostgreSQL
-- MongoDB, Express, (React + Vue), Node - including (Typescript)
+- MongoDB, Express, (React + Vue), Node - all including (Typescript)
 - Laravel (PHP), Inertia, MySQL
 - Flask, MySQL
 
