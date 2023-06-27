@@ -24,7 +24,7 @@ I have devops experience with the following:
     - Amplify
   - Backend
     - EC2 + ECR
-    - ECS for microservices (still getting more experience)
+    - ECS
     - AWS Lambda
   
 
