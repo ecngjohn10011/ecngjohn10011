@@ -8,7 +8,7 @@ I have web development experience with the following tech stacks:
 - Python, Django framework, PostgreSQL
 - MongoDB, Express, (React + Vue), Node - all including (Typescript)
 - Laravel (PHP), Vue, MySQL
-- Flask, MySQL
+- Flask, MySQL, MongoDB, React TS
 
 I have mobile app development experience with the following frameworks, services and applications:
 - Flutter (Dart), Firebase, Android Studio
